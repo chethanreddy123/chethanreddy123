@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chethan-reddy-0201791ba/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B537gu6XOQUq3XfZ7mo%2BnDA%3D%3D)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
+### Glad to see you here! 
 
 I am a Machine Learning enthusiast. I love programming and solving problems using the power of programming.
 
