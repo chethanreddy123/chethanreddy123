@@ -4,7 +4,7 @@
 
 ### Glad to see you here! 
 
-I am a Machine Learning enthusiast. I love programming and solving problems using the power of programming.
+I am an AI Software Engineer. I love programming and solving problems using the power of programming.
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
