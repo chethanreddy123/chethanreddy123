@@ -18,6 +18,7 @@ I build AI applications and the services around them, and own engineering delive
 
 - **Customer engineering:** turn requirements into implementation plans, investigate production issues and verify changes against the customer workflow.
 - **Applied AI and evaluation:** connect LLMs/VLMs to applications; compare quality, consistency and cost; build RAG and document-processing workflows.
+- **Agent tooling:** hands-on setup and configuration of Hermes Agent and OpenClaw.
 - **Backend reliability:** design Python APIs, queue-based processing, recovery paths and repeatable regression checks with tracing and clear service contracts.
 - **Technical communication:** explain architecture and tradeoffs, write runbooks, review code and mentor engineers and learners.
 
