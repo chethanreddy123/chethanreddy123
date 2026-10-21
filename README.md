@@ -30,12 +30,13 @@ The portfolio's employer case studies describe my individual scope within team d
 
 ## Selected public work
 
-- [PhotoBook Backend](https://github.com/chethanreddy123/PhotoBook-Backend) — a FastAPI image-to-PDF application using Pillow and FPDF.
+- [Customer Operations Agent Lab](https://github.com/chethanreddy123/customer-ops-agent-lab) — an October 2026 AI-assisted personal demonstration using synthetic telemetry, lexical playbook retrieval, human approval, persistent actions and fault recovery. **Scripted replay, no live LLM**. Includes 31 tests and 16 declared control scenarios; [read the architecture](https://github.com/chethanreddy123/customer-ops-agent-lab/blob/main/docs/ARCHITECTURE.md) or [inspect the checks](https://github.com/chethanreddy123/customer-ops-agent-lab/blob/main/docs/VERIFICATION.md).
+- [PhotoBook Backend](https://github.com/chethanreddy123/PhotoBook-Backend) — an image-to-PDF API with documented setup, 25 tests and Python 3.11–3.13 CI; covers validation, resource limits, concurrent requests and cleanup.
 - [FFCS Planner](https://github.com/chethanreddy123/FFSC-Planner-Python) — Python timetable selection using graph traversal and clash checks.
 - [Keyword Recommendation Engine](https://github.com/chethanreddy123/BackEndFastAPI) — FastAPI keyword recommendations with autocomplete and similarity logic; a team project.
 - [Supplier Performance](https://github.com/chethanreddy123/SirionLab-Backend) — supplier search and predictive-analysis backend from a team competition project.
 
-These repositories show earlier application and competition work. Recent enterprise delivery is documented in the portfolio case studies.
+The agent lab is new personal demonstration work; the other repositories are earlier application and competition projects, with recent documentation and reliability improvements. Employer delivery is documented separately in the [portfolio case studies](https://chethanreddy123.github.io/portfolio-website/#case-enterprise).
 
 ## Connect
 
