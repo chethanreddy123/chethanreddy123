@@ -1,25 +1,39 @@
-### Hi there, I'm <a href="https://www.linkedin.com/in/chethan-reddy-0201791ba/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BWSunbWkvTySoPsEuWOZtnw%3D%3D" target="_blank">Chethan Reddy</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Chethan Reddy
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chethan-reddy-0201791ba/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B537gu6XOQUq3XfZ7mo%2BnDA%3D%3D)
+**Forward Deployed Engineer (FDE-2) at [Staple AI](https://www.staple.ai/) · Python backend & applied AI · India**
 
-### Glad to see you here! 
+I build AI applications and the services around them, and own engineering delivery for **20+ enterprise customers**—from requirements and integrations to production investigation and verification. I joined Staple in May 2024 and moved into the FDE-2 role in May 2026.
 
-I am an AI Software Engineer. I love programming and solving problems using the power of programming.
+[Portfolio](https://chethanreddy123.github.io/portfolio-website/) · [Current résumé](https://chethanreddy123.github.io/portfolio-website/CV.pdf) · [LinkedIn](https://www.linkedin.com/in/achethanreddy/)
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+## Explore my work
 
-<img align="right" alt="GIF" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" width="408" height="318" />
-  
+| Role focus | What to look for |
+| --- | --- |
+| [Forward deployed engineering](https://chethanreddy123.github.io/portfolio-website/#role-fde) | Customer discovery, solution architecture, integrations, migrations and incident recovery |
+| [Applied AI](https://chethanreddy123.github.io/portfolio-website/#role-applied-ai) | RAG, model integration, evaluation tooling and the interfaces around AI workflows |
+| [Python backend engineering](https://chethanreddy123.github.io/portfolio-website/#role-backend) | FastAPI/Django services, asynchronous processing, database routing, observability and API regression |
 
-**Talking about Personal Stuffs:**
+## Core strengths
 
-- 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/achethanreddy1921/);
-- 💬 Ask me about anything, I am happy to help;
-- 📝 I love teaching programming to others;
-- 📫 How to reach me: achethanreddy1921@gmail.com;
+- **Customer engineering:** turn requirements into implementation plans, investigate production issues and verify changes against the customer workflow.
+- **Applied AI and evaluation:** connect LLMs/VLMs to applications; compare quality, consistency and cost; build RAG and document-processing workflows.
+- **Backend reliability:** design Python APIs, queue-based processing, recovery paths and repeatable regression checks with tracing and clear service contracts.
+- **Technical communication:** explain architecture and tradeoffs, write runbooks, review code and mentor engineers and learners.
 
+The portfolio's employer case studies describe my individual scope within team delivery, including whether work reached production or staging. Employer code and customer data remain private; the public repositories below are separate projects.
 
-</br>
+## Selected public work
 
+- [PhotoBook Backend](https://github.com/chethanreddy123/PhotoBook-Backend) — a FastAPI image-to-PDF application using Pillow and FPDF.
+- [FFCS Planner](https://github.com/chethanreddy123/FFSC-Planner-Python) — Python timetable selection using graph traversal and clash checks.
+- [Keyword Recommendation Engine](https://github.com/chethanreddy123/BackEndFastAPI) — FastAPI keyword recommendations with autocomplete and similarity logic; a team project.
+- [Supplier Performance](https://github.com/chethanreddy123/SirionLab-Backend) — supplier search and predictive-analysis backend from a team competition project.
 
+These repositories show earlier application and competition work. Recent enterprise delivery is documented in the portfolio case studies.
+
+## Connect
+
+Based in India and interested in remote FDE, applied AI and Python backend opportunities that can be performed from India.
+
+[Email](mailto:achethanreddy1921@gmail.com) · [LinkedIn](https://www.linkedin.com/in/achethanreddy/) · [Portfolio](https://chethanreddy123.github.io/portfolio-website/)
