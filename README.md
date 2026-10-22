@@ -2,7 +2,7 @@
 
 **Forward Deployed Engineer (FDE-2) at [Staple AI](https://www.staple.ai/) · Agentic AI & enterprise AI systems · India**
 
-I turn enterprise requirements into AI applications, customer adoption agents and reliable workflows. At Staple AI, I own engineering delivery for **20+ enterprise customers**, spanning solution architecture, model integration, evaluation and production troubleshooting. I joined Staple in May 2024 and moved into the FDE-2 role in May 2026.
+I turn enterprise requirements into AI applications, customer adoption agents and reliable workflows. At Staple AI, I own engineering delivery for **20+ enterprise customers** and personally implement **approximately 80% of the requirements for my customer portfolio**, from solution design and code to testing, rollout and production support. I joined Staple in May 2024 and moved into the FDE-2 role in May 2026.
 
 [Portfolio](https://chethanreddy123.github.io/portfolio-website/) · [Current résumé](https://chethanreddy123.github.io/portfolio-website/CV.pdf) · [LinkedIn](https://www.linkedin.com/in/achethanreddy/)
 
@@ -10,7 +10,7 @@ I turn enterprise requirements into AI applications, customer adoption agents an
 
 | Role focus | What to look for |
 | --- | --- |
-| [Forward deployed engineering](https://chethanreddy123.github.io/portfolio-website/#role-fde) | Customer discovery, solution architecture, integrations, migrations and incident recovery |
+| [Forward deployed engineering](https://chethanreddy123.github.io/portfolio-website/#role-fde) | Customer discovery, hands-on solution design and implementation, testing, rollout, migrations and incident recovery |
 | [Applied & agentic AI](https://chethanreddy123.github.io/portfolio-website/#role-applied-ai) | LLM/VLM applications, RAG, evaluation, customer telemetry and adoption agents |
 | [AI platform engineering](https://chethanreddy123.github.io/portfolio-website/#role-backend) | AI service integration, asynchronous workflows, observability, data reliability and regression automation |
 
@@ -19,7 +19,7 @@ I turn enterprise requirements into AI applications, customer adoption agents an
 - **Agentic AI & customer adoption:** build AI dashboards and adoption agents around customer telemetry to surface usage patterns and identify adoption, usage-growth and upsell opportunities.
 - **LLM/VLM applications & RAG:** integrate models into enterprise workflows and build retrieval-augmented applications, including document analysis.
 - **LLMOps & evaluation:** compare model quality, consistency and cost; build evaluation tooling and repeatable regression checks, with tracing for production investigation.
-- **Enterprise solution architecture:** turn customer requirements into implementation plans, service contracts and integrations; guide rollout and resolve production issues.
+- **Enterprise solution architecture & implementation:** turn customer requirements into working features and integrations; personally write the code, test changes, execute rollout and resolve production issues.
 - **AI platform reliability:** design asynchronous processing, retries, recovery paths and data access that support dependable AI applications.
 - **Agent tooling:** hands-on setup and configuration of Hermes Agent and OpenClaw.
 - **Technical leadership:** explain architecture and tradeoffs, lead design discussions, write runbooks, review code and mentor engineers and learners.
